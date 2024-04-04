@@ -17,3 +17,7 @@ The application is divided into three main components:
 - [Core Application](https://github.com/PicsSmart/picssmart-core.git)
 - [Client Application](https://github.com/PicsSmart/picssmart-client.git)
 - [Federated Server](https://github.com/PicsSmart/picssmart-fed-server.git)
+
+## Documentation
+
+Please refer to the documentation (picssmart-docs)[https://picssmart.github.io/picssmart-docs/)
