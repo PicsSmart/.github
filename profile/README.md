@@ -20,4 +20,4 @@ The application is divided into three main components:
 
 ## Documentation
 
-Please refer to the documentation [picssmart-docs][https://picssmart.github.io/picssmart-docs/)
+Please refer to the documentation [picssmart-docs](https://picssmart.github.io/picssmart-docs/)
