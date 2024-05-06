@@ -21,3 +21,9 @@ The application is divided into three main components:
 ## Documentation
 
 Please refer to the documentation [picssmart-docs](https://picssmart.github.io/picssmart-docs/)
+
+## Contributors
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=PicsSmart/picssmart-core"/>
+</a>
